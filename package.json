@@ -1,0 +1,17 @@
+{
+  "name": "bingogame",
+  "version": "1.0.0",
+  "description": "Bingo game ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
