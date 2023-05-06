@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.19.2"
+    "nodemon": "^2.0.22"
   },
   "dependencies": {
     "readline-sync": "^1.4.10"
